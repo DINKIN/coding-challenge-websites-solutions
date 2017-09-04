@@ -1,6 +1,6 @@
 # Coding Challenge Websites Solutions
 
-My place to show my solutions, made mainly in Python, to various Coding Challenges Websites.
+My place to show my solutions, made mainly in Python, to various Coding Challenges Websites, all made with TDD in mind.
 
 ## Coding Challenge Websites
 
@@ -26,14 +26,14 @@ In all cases the problem is stated inside the exercise folder in a file with the
 
 ```
 |- LeetCode
-  |- exercise_1.rst (instructions)
-  |- exercise_1.py (solutions)
+  |- LeetCode_exercise_name.rst (instructions)
+  |- LeetCode_exercise_name_solution.py (solutions)
 |- CodeWars
-  |- exercise_1.rst (instructions)
-  |- exercise_1.py (solutions)
+  |- CodeWars_exercise_name.rst (instructions)
+  |- CodeWars_exercise_name_solution.py (solutions)
 |- Hackerrank
-  |- exercise_1.rst (instructions)
-  |- exercise_1.py (solutions)
+  |- Hackerrank_exercise_name.rst (instructions)
+  |- Hackerrank_exercise_name_solution.py (solutions)
     .
     .
     .
