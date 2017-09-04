@@ -8,13 +8,15 @@ This is the websites that I'm used to go:
 
 Name | Website
 ------------ | -------
-[Codewars] | https://andyet.com
-TopCoder | https://www.topcoder.com
+Codewars | https://codewars.com
+TopCoder | https://topcoder.com
 Coderbyte | https://coderbyte.com
-HackerRank | https://www.hackerrank.com
-CodeChef | https://www.codechef.com/
-CodeEval | https://www.codeeval.com/
-LeetCode | https://leetcode.com/
+HackerRank | https://hackerrank.com
+CodeChef | https://codechef.com
+CodeEval | https://codeeval.com
+LeetCode | https://leetcode.com
+CodeCombat | https://codecombat.com
+CodingGame | https://codingame.com
 
 
 ## Structure
