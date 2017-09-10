@@ -8,15 +8,20 @@ This is the websites that I'm used to go:
 
 Name | Website
 ------------ | -------
-Codewars | https://codewars.com
-TopCoder | https://topcoder.com
-Coderbyte | https://coderbyte.com
-HackerRank | https://hackerrank.com
-CodeChef | https://codechef.com
-CodeEval | https://codeeval.com
-LeetCode | https://leetcode.com
-CodeCombat | https://codecombat.com
-CodingGame | https://codingame.com
+CodeCombat | https://codecombat.com/
+CodeEval | https://codeeval.com/
+Coderbyte | https://coderbyte.com/
+Coding Games | https://www.codingame.com
+Exercism | http://exercism.io/
+HackerRank | https://www.hackerrank.com/
+LeetCode | https://leetcode.com/
+CodeFights | https://codefights.com/
+Codechef | https://www.codechef.com/
+FreeCodeCamp | https://www.freecodecamp.org/
+Topcoder | https://www.topcoder.com/
+Codewars | https://www.codewars.com/
+Checkio | https://py.checkio.org/
+Python Challenge | http://www.pythonchallenge.com/
 
 
 ## Structure
